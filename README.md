@@ -1,6 +1,8 @@
-Not so eligible to set a README.
-
-Gotta take some time to update
+Hey there!! Yashwant here.
+Currently a CS guy in IIT Kharagpur.
+Very busy in knowing myself.
+Hmmm..... what else to add..??
+Yeah, that's it I guess.
 
 <!---
 yashwantkrishna/yashwantkrishna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
