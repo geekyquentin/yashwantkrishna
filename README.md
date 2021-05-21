@@ -2,7 +2,8 @@ Hey there!! Yashwant here.
 
 Currently a CS guy in IIT Kharagpur.
 
-Very busy in knowing myself.
+Currently into Web Developemt
+and learning Python too!
 
 Hmmm..... what else to add..??
 
