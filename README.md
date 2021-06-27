@@ -1,6 +1,6 @@
 Hey there!! Yashwant here.
 
-Currently a CS guy at IIT Kharagpur.
+Currently a CS student at IIT Kharagpur.
 
 Currently into Web Developemt
 and learning Python too!
