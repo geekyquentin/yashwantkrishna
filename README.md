@@ -5,7 +5,7 @@ Currently a CS student at IIT Kharagpur.
 Currently into Web Developemt
 and learning Python too!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashwantkrishna&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geekyquentin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
